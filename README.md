@@ -1,9 +1,10 @@
 # Our_Body_30Sec
 
 <div dir='rtl' lang='he'>
-  
+<br />
+  <br />
 ![picture2](https://user-images.githubusercontent.com/57682267/102871135-b8936900-4446-11eb-89b6-2d9335149039.jpg)
-  
+ <br /> 
   
 במטלה זו אנחנו מציגות  כמה שניות מהמשחק הסופי שלנו <br />
 במשחק יש לנו: <br />
